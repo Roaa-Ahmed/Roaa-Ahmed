@@ -25,7 +25,7 @@ Running & optimizing paid ads for engagement and conversions
 
 Social media strategy and content insights
 
------
+---
 
 💻 Software Projects
 
@@ -37,7 +37,7 @@ Tech: .NET Core, EF Core, REST API, Swagger, React (UI/UX Figma design).
 
 Features: Authentication/Authorization, Player Profiles, Club Requests, Booking System.
 
-----
+---
 
 2. Booking System (Mini Project)
 
@@ -47,7 +47,7 @@ Tech: .NET Core Web API.
 
 Tools: Swagger, Postman.
 
-----
+---
 
 3. Eagles Academy
 
@@ -57,7 +57,7 @@ Tech: .NET Core backend + React frontend.
 
 Features: Course registration, schedule, testimonials, contact system.
 
-----
+---
 
 4. Glamoura – E-commerce Store 
 

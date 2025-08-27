@@ -70,7 +70,9 @@ Features: Product listing, shopping cart, payment gateway integration (future).
 ----
 
 T&T (Trust & Time) 🚴 – Campus delivery & errands app
-----
+
+A student Delivery & Task Executing platform
+---
 
 📱 Digital Marketing & Page Management
 
